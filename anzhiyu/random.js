@@ -1,1 +1,1 @@
-var posts=["2023/10/11/Android/android/","2023/10/11/前端/前端基础HTML标签/","2023/11/03/渗透测试/渗透测试/","2023/10/12/前端/前端基础JS/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/10/11/Android/android/","2023/11/03/渗透测试/渗透测试/","2023/10/11/前端/前端基础HTML标签/","2023/10/12/前端/前端基础JS/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
